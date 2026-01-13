@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "dns-prefer",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "e44dc7ff-19b3-457a-a9af-9f418a52ded2",
+			"database_name": "dns-prefer-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
